@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow-app name="testApp">
+    <global>
+        <configuration>
+            <property id="1">
+                <name>test_property1</name>
+                <value>Test value of property #1</value>
+            </property>
+            <property id="2">
+                <name>test_property2</name>
+                <value>Test value of property #2</value>
+            </property>
+            <property id="3">
+                <name>test_property3</name>
+                <value>Test value of property #3</value>
+            </property>
+        </configuration>
+    </global>
+</workflow-app>
